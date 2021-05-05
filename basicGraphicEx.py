@@ -1,5 +1,4 @@
 #Introduction to Computer Graphics exercise 1
-#Annieli Siegel 302262720 Or Eitan 305783938
 
 from tkinter import (Button, Canvas, Entry, Label, PhotoImage, StringVar, Tk, colorchooser, Frame, Scale, Checkbutton, IntVar)
 import numpy as np
